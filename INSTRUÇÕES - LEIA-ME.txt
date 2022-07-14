@@ -1,0 +1,74 @@
+
+UNIVERSIDADE DO ESTADO DA BAHIA
+DEPARTAMENTO DE CIÊNCIAS EXATAS E DA TERRA - DCET I
+LICENCIATURA EM FÍSICA
+DISCIPLINA: INSTRUMENTAÇÃO EM FÍSICA III
+DISCENTE(s):ANTÔNIO AUGUSTO GASCH SOUSA CHAVES
+            LEVI SIMÕES CARDOZO
+            OSMAR SANTOS VIEIRA FILHO            
+            VITOR SILVA ROCHA
+
+
+As bibliotecas são importantes para a execução do programa.
+
+Caso não esteja com o arquivo *.exe e sim o *.py, é importante fazer
+a instalação das respectivas bibliotecas:
+> numpy; matplotlib; cv2 (opencv); scipy.
+
+Podem ser instalados pelo pip installer ou configurações de plug-in
+
+As imagens dos gráficos podem ser salvas nas opções da janela do gráfico
+
+
+
+SPECTREYEKATH_V1.0_Beta(imagem)
+
+IMPORTANTE!!!!
+
+
+INSTRUÇÕES DE USO
+
+O programa irá solicitar o nome do arquivo de imagem e sua extensão,
+então inserir o mesmo nome e sua extensão de arquivo, por exemplo:
+
+imagem.png ; foto2.jpg; figuraA.jpeg
+
+Essas imagens devem estar na mesma pasta que o arquivo *.py do espectrômetro
+
+É importante que a imagem esteja iniciando da frequência que corresponde
+a cor azul até a vermelha para que tenha uma leitura eficiente do
+espectro
+
+__________________________________________
+azul                                 vermelho
+
+
+A imagem pode ser rotacionada no próprio visualizador de imagem do
+sistema operacional.
+
+Após isso, o programa vai pedir um nome para que seja colocado no
+gráfico, para facilitar a identificação do objeto ao final e poder
+salvar a imagem do gráfico já com o nome no título.
+
+Com a imagem carregada, uma janela irá aparecer para confirmar se é
+mesmo o arquivo.
+
+Pressionando "1", o usuário confirma e passa para a parte de seleção.
+
+na janela "Selecione a imagem", desenhe um retângulo com o mouse sobre
+o trecho da imagem que deseja analisar. Lembrando, a imagem deve estar
+na horizontal, iniciando da frequência azul para a frequência vermelha.
+
+Ao desenhar a área, pressionar Enter.
+
+Abrirá uma janela confirmando o frame para captura. Se tudo estiver certo,
+pressione "2" para iniciar a análise.
+
+
+Será plotado o gráfico contendo a imagem do espectro em estudo, bem como
+um gráfico com o comprimento de onda associado.
+
+Há duas caixas com opções ao lado do gráfico para mostrar apenas linhas,
+picos com máximos ou ambos.
+
+
