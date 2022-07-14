@@ -23,6 +23,9 @@ As imagens dos gráficos podem ser salvas nas opções da janela do gráfico
 
 SPECTREYEKATH_V1.0_Beta(imagem)
 
+o download do programa está no arquivo SpectreyeKath_V1.0(beta).rar disponível
+descompactar o arquivo em uma pasta única
+
 IMPORTANTE!!!!
 
 
