@@ -13,7 +13,14 @@ As bibliotecas são importantes para a execução do programa.
 
 Caso não esteja com o arquivo *.exe e sim o *.py, é importante fazer
 a instalação das respectivas bibliotecas:
-> numpy; matplotlib; cv2 (opencv); scipy.
+> numpy; matplotlib; cv2 (opencv-python); scipy.
+
+>Importante! As versões das bibliotecas utilizadas foram:
+numpy: Installed version: 1.26.1
+matplotlib: Installed version: 3.8.0
+opencv-python: Installed version: 4.8.1.78
+scipy: Installed version: 1.11.3
+
 
 Podem ser instalados pelo pip installer ou configurações de plug-in
 
